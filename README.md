@@ -60,4 +60,4 @@ Under the src folder, we have two main directories:
 
 - `App.js`: the place where the main logic for this workshop
 - `components/`: Components reused across pages
-- `utils.js`: Which contains, as the name suggests, utility shared funcitons,
+- `utils/useAsync.js`: Which contains, as the name suggests, utility shared funcitons,
